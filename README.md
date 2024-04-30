@@ -5,5 +5,5 @@
 ### Sobre o projeto
 
 ### 🚧⚠️Em desenvolvimento...⚠️🚧
-<img src="img/The Goblin's Cave.gif" type="image/gif" alt="Gameplay gif" width=412px>
+<img src="img/gameplay.gif" type="image/gif" alt="Gameplay gif">
 </div>
